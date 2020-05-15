@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Ethic Project Frontend
+[Documentation](https://docs.google.com/document/d/1H6FpjRvHyg7vQaXTfDy56abzYkosRirZdbCEX5Wq0Ok/edit#)
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This project lives [here](https://ethic-blueprint-frontend.herokuapp.com/).
 
 ## Available Scripts
 
