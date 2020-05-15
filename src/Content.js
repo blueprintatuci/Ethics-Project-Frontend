@@ -52,7 +52,7 @@ export default class Header extends Component {
 
   componentDidMount() {
     // get blog names and corresponding ids
-    axios.get("http://ethic-blueprint.herokuapp.com/blogs")
+    axios.get("https://ethic-blueprint.herokuapp.com/blogs")
       .then((result) => {
         const arr = Object.keys(result.data).map((key) => [
           key,
